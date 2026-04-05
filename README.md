@@ -1,9 +1,1 @@
-Hi I'm Rylie. 
-My pronouns are she/her!
-I'm really interested coding!
-
-
-<!---
-ryliei/ryliei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I’m a full-stack developer with a passion for building responsive, user-friendly web applications from front to back. I have a strong foundation in HTML, CSS, JavaScript, and SQL, and I use tools like React to create clean, interactive frontends while integrating backend services for scalable, efficient systems. I also have experience with cloud platforms like AWS, using services such as S3 and CloudFront to deploy and manage applications. I enjoy turning ideas into real projects and continuously improving my skills by learning new technologies and best practices.

@@ -4,11 +4,6 @@ Hi! I’m a full-stack developer with a passion for building responsive, user-fr
 # Resume
 https://github.com/ryliei/ryliei/blob/main/Resume.docx-2.pdf
 
-# Projects
-1. p1
-2. p2
-3. p3
-
 # Contact Me
 Email: rylieisbell@gmail.com<br>
 Phone Number: 918-399-4660<br>
